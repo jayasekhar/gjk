@@ -1,4 +1,8 @@
 package org.jk;
+/**
+ * @author jaaks
+ *
+ */
 public class Calculator {
 
 	public long add(int a, int b) {
